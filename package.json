@@ -1,0 +1,27 @@
+{
+  "name": "decentralized-real-estate-marketplace",
+  "version": "1.0.0",
+  "description": "Decentralized real estate token marketplace made for Dwella Investing.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgonel/decentralized-real-estate-marketplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgonel/decentralized-real-estate-marketplace/issues"
+  },
+  "homepage": "https://github.com/cgonel/decentralized-real-estate-marketplace#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/test-helpers": "^0.5.15"
+  }
+}
